@@ -3,17 +3,12 @@
 ### Test Assignment: 
 Considering the Gmail Application, write specifications for at least 2 features of it. The code to write should be a [Gherkin based specification](https://cucumber.io/docs/gherkin/).
 
-Feature: **Rule-based email filtering**
+1. Feature: **Rule-based email filtering**
 
-Step1: 
-Create a filter
+    1.1. Create a filter ()
 
-Step2:
-Edit or delete filters
+    1.2. Edit filter ()
 
-Step3:
-Export or import filters
+    1.3. Delete filter ()
 
-Feature 2: 
-
-Feature 3
+2. Feature: **Split emails using Gmail priority inbox** ()
