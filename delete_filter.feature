@@ -11,4 +11,4 @@ And I see my filters
 And I choose the filter I want to delete
 And I click "Delete" to remove the chosen filter
 And I click "Confirm delete filter"
-Then: I should see the notification "Your filter has been deleted" at the bottom of the page
+Then I should see the notification "Your filter has been deleted" at the bottom of the page
