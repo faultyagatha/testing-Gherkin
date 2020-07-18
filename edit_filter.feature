@@ -12,4 +12,4 @@ And I choose the filter I want to change
 And I click "Edit" to change the chosen filter
 And I click "Continue" at the bottom of the window
 And I click "Update filter" at the bottom of the window
-Then: I should see the notification "Your filter has been updated" at the bottom of the page
+Then I should see the notification "Your filter has been updated" at the bottom of the page
